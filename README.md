@@ -1,4 +1,4 @@
-<img src = "https://wallpapers.com/images/high/hello-world-code-background-flab7whlybfrrsdi.webp" width="50%" height="50%" >
+<img src = "https://wallpapers.com/images/high/hello-world-code-background-flab7whlybfrrsdi.webp" width="50%" height="50%" align="center" >
 
 # Hi there 👋😄
 
