@@ -1,12 +1,12 @@
-### Hi there 👋😄
+<img src = "https://wallpapers.com/images/high/hello-world-code-background-flab7whlybfrrsdi.webp" width="50%" height="50%" >
 
-<img src = "https://wallpapers.com/images/high/hello-world-code-background-flab7whlybfrrsdi.webp" >
+# Hi there 👋😄
 
-# About
+## About
 
 Lakmal is a software engineer from Gampaha, Sri Lanka with a Bachelor in Information Technology from the University of Colombo School of Computing.
 
-## Links
+### Links
 - Twitter: https://twitter.com/l_samarakkody
 - LinkedIn: https://www.linkedin.com/in/lakmalsamarakkody/
 - Instagram: https://instagram.com/rickhanlonii
