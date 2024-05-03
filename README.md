@@ -1,5 +1,20 @@
 ### Hi there 👋😄
 
+<img src = "https://wallpapers.com/images/high/hello-world-code-background-flab7whlybfrrsdi.webp" >
+
+# About
+
+Lakmal is a software engineer from Gampaha, Sri Lanka with a Bachelor in Information Technology from the University of Colombo School of Computing.
+
+## Links
+- Twitter: https://twitter.com/l_samarakkody
+- LinkedIn: https://www.linkedin.com/in/lakmalsamarakkody/
+- Instagram: https://instagram.com/rickhanlonii
+- GitHub: https://github.com/lakmalsamarakkody
+- Website: https://lakmalsamarakkody.github.io/aboutme/
+  
+📫 Reach me on: lakmalsamarakkody@gmail.com 
+
 <!--
 **lakmalsamarakkody/lakmalsamarakkody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
