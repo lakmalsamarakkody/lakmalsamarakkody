@@ -1,4 +1,4 @@
-<img src = "https://wallpapers.com/images/high/hello-world-code-background-flab7whlybfrrsdi.webp" width="100%" height="10%">
+<img src = "240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" width="100%" height="10%">
 
 # 👋 Hi, I'm Lakmal Samarakkody
 💻 Software Engineer | Full-Stack Developer | Technology Enthusiast
